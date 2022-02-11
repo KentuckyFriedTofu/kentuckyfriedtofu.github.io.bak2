@@ -68,8 +68,8 @@ Publications
 
 ## Books
 
-* Tidal, J. (2021). *Podcasting: A practical guide for librarians*. Chicago: Rowman & Littlefield.<br>
-* Tidal, J. (2015). *Usability and the mobile web: A LITA guide*. Chicago: American Libraries Association, TechSource.
+* Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.<br>
+* Tidal, J. (2015). *[Usability and the mobile web: A LITA guide](http://www.worldcat.org/oclc/1151666266)*. Chicago: American Libraries Association, TechSource.
 
 ## Book Chapters
 
