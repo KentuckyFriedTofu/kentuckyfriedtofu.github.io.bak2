@@ -86,7 +86,7 @@ Publications
 
 * Almeida, N. and Tidal, J. (2022).  Library wayfinding and ESOL students: Overcoming communication obstacles. *Portal* (forthcoming).<br>
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
-* Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs}(http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).<br>
+* Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs](http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).<br>
 * Almeida, N. and Tidal, J. (2017). [Mixed Methods Not Mixed Messages: Improving LibGuides with Student Usability Data](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29305/21467). *Evidence Based Library and Information Practice*, 12(4).<br>
 * Abrams, K. and Tidal, J. (2017). [What’s Mine is YOURLS](https://digitalcommons.montclair.edu/cgi/viewcontent.cgi?article=1024&context=eldj). *Emerging Learning Design Journal*, 5.<br>
 * Tidal, J. (November, 2016). [One Site to Rule Them All Redux: The Second Round of Usability Testing of a Responsively Designed Website](http://academicworks.cuny.edu/ny_pubs/122/). *Journal of Web Librarianship*, 11(1). http://dx.doi.org/10.1080/19322909.2016.1243458.<br>
@@ -96,17 +96,17 @@ Publications
 
 ## Non Refereed Publications
 
-* Tidal, J. (2019). Editorial: New Editors, Diversity, and Representation. *Code4Lib Journal*, 44.<br>
-* Tidal, J. (February, 2011). Using web metric software to drive mobile website development. *Computers in Libraries*, 31(3) 19-23.
+* Tidal, J. (2019). [Editorial: New Editors, Diversity, and Representation](https://journal.code4lib.org/articles/14551). *Code4Lib Journal*, 44.<br>
+* Tidal, J. (February, 2011). [Using web metric software to drive mobile website development](https://eric.ed.gov/?id=EJ926260). *Computers in Libraries*, 31(3) 19-23.
 
 ## Other
 
-* Tidal, J. (2017). E-Resource Round Up Electronic Resources Management Toolkit Program. *Journal of Electronic Resources Librarianship*, 29(1).<br>
-* Tidal, J. (2016). Notes from the Editor. *Urban Library Journal*, 21(2).<br>
-* Tidal, J. (2016). Notes from the Editor. *Urban Library Journal*, 21(1).<br>
-* Tidal, J. (2015)  E-Resource Round Up ALA Annual 2015 LITA/ALCTS Joint Electronic Resource Management Interest Group Report. *Journal of Electronic Resources Librarianship*, 27(4).
-* Tidal, J. (2015) Notes from the Co-editors. *Urban Library Journal*, 20(2).<br>
-* Densmore, B. and Tidal, J. (2015) Notes from the Co-editors. *Urban Library Journal*, 20(1).
+* Tidal, J. (2017). [E-Resource Round Up Electronic Resources Management Toolkit Program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
+* Tidal, J. (2016). [Notes from the Editor](http://academicworks.cuny.edu/ulj/vol22/iss2/6/). *Urban Library Journal*, 21(2).<br>
+* Tidal, J. (2016). [Notes from the Editor](http://academicworks.cuny.edu/ulj/vol22/iss1/3/). *Urban Library Journal*, 21(1).<br>
+* Tidal, J. (2015)  [E-Resource Round Up ALA Annual 2015 LITA/ALCTS Joint Electronic Resource Management Interest Group Report](http://www.tandfonline.com/doi/full/10.1080/1941126X.2015.1092358). *Journal of Electronic Resources Librarianship*, 27(4).
+* Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1676/Notes%20from%20Editor%20Tidal). *Urban Library Journal*, 20(2).<br>
+* Densmore, B. and Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1671/Notes%20from%20the%20Co-Editors). *Urban Library Journal*, 20(1).
 
 ## Conference Proceedings
 
@@ -173,8 +173,8 @@ Publications
 
 ## Awards and Professional Recognition
 
-* 2020 – ALA Library Census Equity Grant, Award to fund programming to encourage vulnerable populations to take part in the 2020 U.S. Census.<br>
-* 2020 – Carnegie-Whitney Grant (with Joan Jocson-Signh of CalArts), Award to fund the development of “A Bibliography Exploring Extreme Music and Marginalized Communities.”<br>
+* 2020 – [ALA Library Census Equity Grant](http://www.ala.org/news/member-news/2020/09/ala-awards-additional-100-library-census-equity-fund-grants), Award to fund programming to encourage vulnerable populations to take part in the 2020 U.S. Census.<br>
+* 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “A Bibliography Exploring Extreme Music and Marginalized Communities.”<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
 * 2020 – LACUNY Professional Development Travel Grant (Travel to Designing for Digital Conference)<br>
 * 2018 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to LMCC)<br>
@@ -183,9 +183,9 @@ Publications
 * 2016 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (with Prof. Keith Muchowski and Prof. Tess Tobin)<br>
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to code4Lib National)<br>
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ALA Midwinter)<br>
-* 2015 – ACRL Member of the Week April 27th – May 2, 2015<br>
+* 2015 – [ACRL Member of the Week](http://www.acrl.ala.org/acrlinsider/archives/10164) April 27th – May 2, 2015<br>
 * 2015 – ACRL 2015 Mid-career Librarian scholarship<br>
-    (Travel to ACRL 2015) Testimonial<br>
+    (Travel to ACRL 2015) [Testimonial](http://acrl.ala.org/acrl75/?p=1453)<br>
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award<br>
     (Travel to ACRL National Conference 2015)<br>
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award<br>
