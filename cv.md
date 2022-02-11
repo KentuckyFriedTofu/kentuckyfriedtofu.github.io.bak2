@@ -85,14 +85,14 @@ Publications
 ## Refereed Publications
 
 * Almeida, N. and Tidal, J. (2022).  Library wayfinding and ESOL students: Overcoming communication obstacles. *Portal* (forthcoming).<br>
-* Tidal, J. (2021). Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users. *Against the Grain*, 33(1).
-* Abrams, K. and Tidal, J. (2020). Optimizing library marketing with shortURLs. *Marketing Libraries Journal*, 4(1).<br>
-* Almeida, N. and Tidal, J. (2017). Mixed Methods Not Mixed Messages: Improving LibGuides with Student Usability Data. *Evidence Based Library and Information Practice*, 12(4).<br>
-* Abrams, K. and Tidal, J. (2017). What’s Mine is YOURLS. *Emerging Learning Design Journal*, 5.<br>
-* Tidal, J. (November, 2016). One Site to Rule Them All Redux: The Second Round of Usability Testing of a Responsively Designed Website. *Journal of Web Librarianship*, 11(1). http://dx.doi.org/10.1080/19322909.2016.1243458.<br>
-* Tidal, J. (October, 2013). Developing mobile website interfaces. *Journal of Web Librarianship*. 7(4).<br>
-* Tidal, J. (October, 2012). Using PHP to parse eBook resources from Drupal 6 to populate a mobile web page. *Code4lib Journal*, 18.<br>
-* Tidal, J. (May, 2012). Creating a user-centered library homepage: A case study. *OCLC Systems & Services: International Digital Library Perspectives*, 28(2).
+* Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
+* Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs}(http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).<br>
+* Almeida, N. and Tidal, J. (2017). [Mixed Methods Not Mixed Messages: Improving LibGuides with Student Usability Data](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29305/21467). *Evidence Based Library and Information Practice*, 12(4).<br>
+* Abrams, K. and Tidal, J. (2017). [What’s Mine is YOURLS](https://digitalcommons.montclair.edu/cgi/viewcontent.cgi?article=1024&context=eldj). *Emerging Learning Design Journal*, 5.<br>
+* Tidal, J. (November, 2016). [One Site to Rule Them All Redux: The Second Round of Usability Testing of a Responsively Designed Website](http://academicworks.cuny.edu/ny_pubs/122/). *Journal of Web Librarianship*, 11(1). http://dx.doi.org/10.1080/19322909.2016.1243458.<br>
+* Tidal, J. (October, 2013). [Developing mobile website interfaces](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.835218). *Journal of Web Librarianship*. 7(4).<br>
+* Tidal, J. (October, 2012). [Using PHP to parse eBook resources from Drupal 6 to populate a mobile web page](https://journal.code4lib.org/articles/7294). *Code4lib Journal*, 18.<br>
+* Tidal, J. (May, 2012). [Creating a user-centered library homepage: A case study](https://www.emerald.com/insight/content/doi/10.1108/10650751211236631/full/html). *OCLC Systems & Services: International Digital Library Perspectives*, 28(2).
 
 ## Non Refereed Publications
 
