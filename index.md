@@ -13,7 +13,7 @@ My research interest include mobile web usability, digital privacy, and more. I'
 
 I oversee the City Tech library's Multimedia Resource Center, the media collection, and website. 
 
-Originally from Whitesburg, Ky, I reside in Brooklyn, NY. I earned my Master's in Library Science and Master's in Information Science from Indiana University, Bloomington. 
+Originally from Whitesburg, Ky, I reside in Brooklyn, NY. I earned my Master of Library Science and Master of Information Science from Indiana University, Bloomington. 
 
 While not in the library, I enjoy spending time listening to heavy metal vinyl, cooking vegan meals, and cycling. 
 
