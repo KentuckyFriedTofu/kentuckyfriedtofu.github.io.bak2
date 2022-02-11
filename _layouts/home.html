@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div>
+<div class="container">
+<div class="col-sm-6 mx-auto">
 
   {%- if page.title -%}
   <header>
@@ -10,9 +11,12 @@ layout: default
   </header>
   {%- endif -%}
 
+<main role="main">
   <section>
     {{ content }}
   </section>
+</main>
+</div>
 
   {%- if site.posts.size > 0 -%}
     <p class="h4">{{ page.list_title | default: "Posts" }}</p>
