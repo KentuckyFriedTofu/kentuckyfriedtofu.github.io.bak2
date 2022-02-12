@@ -27,11 +27,6 @@ M.S. Library Science
 B.S. Telecommunications<br>
 minor: Computer Science
 
-## Continuing Education:
-* Baruch College<br>
-CUNY Continuing & Professional Studies New York, NY<br>
-Spanish II – IV
-
 ## Research Interests
 Web Metrics, Web Usability, Information Architecture, Mobile Design
 
