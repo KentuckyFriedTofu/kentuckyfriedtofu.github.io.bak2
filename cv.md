@@ -60,14 +60,15 @@ Designed and maintained the program’s website with database capabilities, to b
 January 2003 – May 2005<br>
 Indiana Daily Student, Bloomington, Indiana<br>
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
-Publications
 
-## Books
+## Publications
+
+### Books
 
 * Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.<br>
 * Tidal, J. (2015). *[Usability and the mobile web: A LITA guide](http://www.worldcat.org/oclc/1151666266)*. Chicago: American Libraries Association, TechSource.
 
-## Book Chapters
+### Book Chapters
 
 * Tidal, J. (2021). [Is anybody out there?: Using application statistics and web analytics to assess social media reach](https://www.igi-global.com/chapter/is-anybody-out-there/224544). In Information Resources Management Association (Ed.), *[Research Anthology on Strategies for Using Social Media as a Service and Tool in Business](https://www.igi-global.com/gateway/book/275414?ct=-8585755082102393678)*. IGI Global. (Reprinted from *[Social media for communication and instruction in academic libraries](https://www.igi-global.com/book/social-media-communication-instruction-academic/214080)* by Jennifer Joe and Elisabeth Knight (Eds.), 2019, IGIGlobal).<br>
 * Tidal, J. (2021). Filipino-American punk. *[Trans-global punk scenes the punk reader volume 2](https://www.intellectbooks.com/trans-global-punk-scenes)*. Russ Bestley, Mike Dines, Paula Guerra and Alastair Gordon (Eds.). Intellect Books.<br>
@@ -78,7 +79,7 @@ Publications
 * Tidal, J. (2013). Web librarianship. In Peacock, R. and Wurm, J. (Eds.) *[The new academic librarian: Essays on changing roles and responsibilities](http://www.worldcat.org/oclc/1040980322)* (pp. 170-178). Jefferson, NC: McFarland.<br>
 * Tidal, J. (2013). Optimizing open source web analytics tools for increased security of WordPress and Drupal. In Farney, T. and McHale, N. (Eds.) *[Web analytics strategies for information professionals A LITA guide](http://www.worldcat.org/oclc/1059010747)* (pp.165-175). Chicago: American Libraries Association, TechSource.
 
-## Refereed Publications
+### Refereed Publications
 
 * Almeida, N. and Tidal, J. (2022).  Library wayfinding and ESOL students: Overcoming communication obstacles. *Portal* (forthcoming).<br>
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
@@ -90,12 +91,12 @@ Publications
 * Tidal, J. (October, 2012). [Using PHP to parse eBook resources from Drupal 6 to populate a mobile web page](https://journal.code4lib.org/articles/7294). *Code4lib Journal*, 18.<br>
 * Tidal, J. (May, 2012). [Creating a user-centered library homepage: A case study](https://www.emerald.com/insight/content/doi/10.1108/10650751211236631/full/html). *OCLC Systems & Services: International Digital Library Perspectives*, 28(2).
 
-## Non Refereed Publications
+### Non Refereed Publications
 
 * Tidal, J. (2019). [Editorial: New Editors, Diversity, and Representation](https://journal.code4lib.org/articles/14551). *Code4Lib Journal*, 44.<br>
 * Tidal, J. (February, 2011). [Using web metric software to drive mobile website development](https://eric.ed.gov/?id=EJ926260). *Computers in Libraries*, 31(3) 19-23.
 
-## Other
+### Other
 
 * Tidal, J. (2017). [E-Resource Round Up Electronic Resources Management Toolkit Program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
 * Tidal, J. (2016). [Notes from the Editor](http://academicworks.cuny.edu/ulj/vol22/iss2/6/). *Urban Library Journal*, 21(2).<br>
@@ -104,18 +105,18 @@ Publications
 * Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1676/Notes%20from%20Editor%20Tidal). *Urban Library Journal*, 20(2).<br>
 * Densmore, B. and Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1671/Notes%20from%20the%20Co-Editors). *Urban Library Journal*, 20(1).
 
-## Conference Proceedings
+### Conference Proceedings
 
 * Tidal, J. (2015) One Site to Rule Them All: Usability Testing of a Responsively Designed Library Website. In Mueller, D. (Ed.) Creating Sustainable Community The Proceedings of the ACRL 2015 Conference . Paper presented at the Association of College and Research Libraries, Portland OR, 25-28 March (pp. 593-604). Association of College and Research Libraries: Chicago.
 
-## Encyclopedia Entries
+### Encyclopedia Entries
 
 * Tidal, J. (2016). Filipino-American Food. In Lan Dong (Ed.) *American culture: From anime to tiger moms*. Santa Barbara, CA: ABC-CLIO.<br>
 * Tidal, J. (2016). Filipino-American Music. In Lan Dong (Ed.) *American culture: From anime to tiger moms*. Santa Barbara, CA: ABC-CLIO.<br>
 * Tidal, J. (2016). Sushi. In Lan Dong (Ed.) *American culture: From anime to tiger moms*. Santa Barbara, CA: ABC-CLIO.<br>
 * Tidal, J. (2015). Slayer In David Moskowitz (Ed.) In *The 100 greatest bands of all time*. Santa Barbara, CA: ABC-CLIO.
 
-## Invited Talks & Workshops
+### Invited Talks & Workshops
 
 * Kroski, E., Jacobs, C., Tidal, J., Adams, T., and Walker, L. (2021). Keynote panel presentation at Library 2.021, virtual.<br>
 * Beilin, I., Blick, B., Chun, S. A., Drabinski, E., Polger, M.A., and Tidal, J. (2021). Ask the editors: Responding to peer review and other tips for successful journal submissions. Panel presentation at the LACUNY Professional Development Committee Workshop, New York, NY.<br>
