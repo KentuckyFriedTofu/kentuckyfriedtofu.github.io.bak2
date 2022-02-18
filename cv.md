@@ -119,7 +119,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Invited Talks & Workshops
 
-* Kroski, E., Jacobs, C., Tidal, J., Adams, T., and Walker, L. (2021). Keynote panel presentation at Library 2.021, virtual.<br>
+* Kroski, E., Jacobs, C., Tidal, J., Adams, T., and Walker, L. (2021). [Keynote panel presentation at Library 2.021](https://youtu.be/zlLjs-D9m84), virtual.<br>
 * Beilin, I., Blick, B., Chun, S. A., Drabinski, E., Polger, M.A., and Tidal, J. (2021). Ask the editors: Responding to peer review and other tips for successful journal submissions. Panel presentation at the LACUNY Professional Development Committee Workshop, New York, NY.<br>
 * Tidal, J. (2019). Empowering Library Users through Effective Usability. New York Technical Services Librarians Fall Program, New York, NY.<br>
 * Tidal, J. (2017). Piwik. University System of Maryland and Affiliated Institutions Google Analytics Forum [Webinar].<br>
