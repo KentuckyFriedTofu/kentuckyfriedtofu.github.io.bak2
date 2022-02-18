@@ -62,6 +62,7 @@ Indiana Daily Student, Bloomington, Indiana<br>
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
 
 ## Publications
+*View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-FCgAAAAJ&hl=en&oi=ao)*
 
 ### Books
 
