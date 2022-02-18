@@ -240,6 +240,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## College Service
 
+* New York City College of Technology, PDAC College Research Council 2022-present
 * New York City College of Technology, Personnel Appeals Committee member (elected), 2019-2021
 * New York City College of Technology, CUNY College Council Delegate-At-Large (elected), 2017-2020
 * New York City College of Technology, CUNY College Council Technology Committee Secretary (elected), 2015-2016
