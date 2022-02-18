@@ -172,7 +172,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 ## Awards and Professional Recognition
 
 * 2020 – [ALA Library Census Equity Grant](http://www.ala.org/news/member-news/2020/09/ala-awards-additional-100-library-census-equity-fund-grants), Award to fund programming to encourage vulnerable populations to take part in the 2020 U.S. Census.<br>
-* 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “A Bibliography Exploring Extreme Music and Marginalized Communities.”<br>
+* 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
 * 2020 – LACUNY Professional Development Travel Grant (Travel to Designing for Digital Conference)<br>
 * 2018 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to LMCC)<br>
