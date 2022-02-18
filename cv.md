@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 ---
 
-# Junior Tidal - Curriculm Vitae
+# Junior Tidal - Curriculum Vitae
 
 
 ## Office Address:
