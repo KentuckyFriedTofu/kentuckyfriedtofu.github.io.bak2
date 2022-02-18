@@ -241,6 +241,8 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 ## College Service
 
 * New York City College of Technology, PDAC College Research Council 2022-present
+* New York City College of Technology Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
+* New York City College of Technology [Faculty Commons Faculty Friday: Using Podcasts as a Teaching Tool](https://youtu.be/zjY2vQztGvI) Workshop
 * New York City College of Technology, Personnel Appeals Committee member (elected), 2019-2021
 * New York City College of Technology, CUNY College Council Delegate-At-Large (elected), 2017-2020
 * New York City College of Technology, CUNY College Council Technology Committee Secretary (elected), 2015-2016
@@ -250,7 +252,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * New York City College of Technology, CUNY Personnel Committee, Non-voting Member 2013 – 2014
 * New York City College of Technology, CUNY Humanities Department Annual Speech Competition, Judge 2010-2014
 * New York City College of Technology, CUNY Committee on Students, Non-voting Member 2008 – 2010
-    Cinem@Tech – Organized monthly library film screenings 2006 – 2009
+* New York City College of Technology Cinem@Tech – Organized monthly library film screenings 2006 – 2009
 
 ## University Service
 
@@ -292,4 +294,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * American Libraries Association (ALA), Member 2005 – 2016, 2019 – 2020
 
 ## Media Appearances 
-Kroski, E. V. (2022, Jan. 3) *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
+
+Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
+Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
+
