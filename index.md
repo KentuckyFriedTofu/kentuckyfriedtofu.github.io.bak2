@@ -8,6 +8,7 @@ I am the Multimedia and Web Services Librarian, Associate Professor for the [Urs
 {:refdef: style="text-align: center;"}
 ![Photo by Al Vargas](https://juniortidal.com/assets/junior_tidal.jpg "Photo by Al Vargas"){: width="250"}
 {: refdef}
+*Photo by Alberto Vargas*
 
 My research interest include mobile web usability, digital privacy, and more. I've written a number of [publications and presentations](cv.html), including the books, [*Usability and the Mobile Web*](http://www.worldcat.org/oclc/937668047) and [*Podcasting: A Practical Guide for Librarians*](http://www.worldcat.org/oclc/1259038141).
 
