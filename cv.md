@@ -289,3 +289,6 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * Library Association of the City University of New York (LACUNY) 2006 – Present
 * Librarians Without Borders, Member 2006 – Present
 * American Libraries Association (ALA), Member 2005 – 2016, 2019 – 2020
+
+## Media Appearances 
+Kroski, E. V. (2022, Jan. 3) *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
