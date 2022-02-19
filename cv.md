@@ -131,6 +131,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## Presentations
 
+* Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities. Panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL. (forthcoming)
 * Clyde, W., Cooney, C., and Tidal, J. (2021). [Opening teaching beyond traditional instructional settings: A teaching portfolio program for non-instructional librarians](https://drive.google.com/file/d/1i6G7NricZmPWztMJs3wpjbO1sR5EGYaY/view). Presentation at the Association of College and Research Libraries National Conference, Virtual.<br>
 * Abrams, K., Almeida, N. and Tidal, J. (2020). [The way I see it: Using Go-Pro Cameras to understand student wayfinding obstacles](https://drive.google.com/file/d/1nAYhlDitStbhYIlOFRVZnaGUnq8fJRQa/view?usp=sharing). Presentation at Designing for Digital 2020 Conference, Austin, TX.<br>
 * Jones, B. N., Tidal, J. (2020). [Pi-hole privacy: Tampering is a good thing](https://librarianbryan.github.io/Pi-Hole-Code4Lib2020/). Pre-conference presentation at code4Lib 2020, Pittsburgh, PA.<br>
@@ -242,9 +243,10 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## College Service
 
-* New York City College of Technology, PDAC College Research Council 2022-present
-* New York City College of Technology Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
-* New York City College of Technology [Faculty Commons Faculty Friday: Using Podcasts as a Teaching Tool](https://youtu.be/zjY2vQztGvI) Workshop
+* New York City College of Technology, Professional Development Advisory Council(PDAC) College Research Council 2022-present
+* New York City College of Technology, Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
+* New York City College of Technology, [Faculty Commons Faculty Friday: Using Podcasts as a Teaching Tool](https://youtu.be/zjY2vQztGvI) Workshop
+* New York City College of Technology, PDAC New Faculty Orientation Committee 2019-2022
 * New York City College of Technology, Personnel Appeals Committee member (elected), 2019-2021
 * New York City College of Technology, CUNY College Council Delegate-At-Large (elected), 2017-2020
 * New York City College of Technology, CUNY College Council Technology Committee Secretary (elected), 2015-2016
