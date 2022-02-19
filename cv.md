@@ -108,7 +108,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Conference Proceedings
 
-* Tidal, J. (2015) One Site to Rule Them All: Usability Testing of a Responsively Designed Library Website. In Mueller, D. (Ed.) Creating Sustainable Community The Proceedings of the ACRL 2015 Conference . Paper presented at the Association of College and Research Libraries, Portland OR, 25-28 March (pp. 593-604). Association of College and Research Libraries: Chicago.
+* Tidal, J. (2015) [One Site to Rule Them All: Usability Testing of a Responsively Designed Library Website](https://academicworks.cuny.edu/ny_pubs/122/). In Mueller, D. (Ed.) Creating Sustainable Community The Proceedings of the ACRL 2015 Conference . Paper presented at the Association of College and Research Libraries, Portland OR, 25-28 March (pp. 593-604). Association of College and Research Libraries: Chicago.
 
 ### Encyclopedia Entries
 
@@ -139,7 +139,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * Almeida, N., Hill, H., and Tidal, J. (2018). [You can’t always get what you want: User experience & the shifting contexts of library pedagogy](https://docs.google.com/presentation/d/1nXYILPwcKR-SCZQ8NIBNLYMDvTfrzG8ieKrsgogX6rU/edit?usp=sharing). Presentation at the CUNY IT Conference, New York, NY. (Refereed)<br>
 * Abrams, K. and Tidal, J. (2018). [Optimizing library marketing with short links](https://docs.google.com/presentation/d/17CD18E0zmh4_xXK3Z2v8WdSQhsh3Mqbe0ouDruT6bE4/edit?usp=sharing). Presentation at the Library Marketing and Communication Conference, St. Louis, MO. (Refereed)<br>
 * Tidal, J. (2018). [Accessibility and the City Tech Library Website](https://docs.google.com/presentation/d/1KNPwPXQPRpqgkonq_1Pq5gUgJN9S5D78pu1bIIldsGk/edit?usp=sharing) Presentation at the L’Association des Bibliothécaires du Québec (Quebec Library Association) 86th Annual Conference, Montreal, QC, Canada. (Refereed)<br>
-* Tidal, J. (2018). Promoting banned books in the City Tech library. Presentation at Banned Books Symposium, Newburgh, NY.<br>
+* Tidal, J. (2018). [Promoting banned books in the City Tech library](https://academicworks.cuny.edu/ny_pubs/234). Presentation at Banned Books Symposium, Newburgh, NY.<br>
 * Davis, R. C., Eaton, M., Klein, S., Tidal, J. (2017). [Accessibility in the time of limited resources](https://academicworks.cuny.edu/ny_pubs/215). Presentations at the 16th Annual CUNY IT Conference, New York, NY. (Refereed)<br>
 * Almeida, N. and Tidal, J. (2017). [Mixed methods not mixed messages: Improving LibGuides with student usability data](https://drive.google.com/open?id=1rEKy2TU3EDJYWQeQJe__PKNa_pbq7fJJhoO2Ujv27UQ). The 9th International Evidence Based Library and Information Practice Conference. Drexel University. Philadelphia, PA. (Refereed)<br>
 * Abrams, K. and Tidal, J. (2017). [Electronic resource management and YOURLS](http://academicworks.cuny.edu/ny_pubs/158/). Presentation at OLC Collaborate with Emerging Learning Design, Montclair, NJ.
@@ -150,28 +150,29 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * Tidal, J. (2016). Forging the library website with open source. Presentation at City Tech Tech Day Brooklyn, NY.<br>
 * Almeida, N. and Tidal, J. (2016) [Photo]-Opportunities for engagement using Instagram to promote student library use. Presentation at ACRL National Library Marketing & Outreach Interest Group-Greater NYC Area Meeting, New York, NY. (Refereed)<br>
 * Tidal, J. (2015). Making access short And sweet: Developing a PHP proxy linker and URL shortening tool. Presentation at the Fall 2015 code4LibNYC Meeting/METRO SIG, New York, NY.<br>
-* Tidal, J. (2015). [Bootstrapping in the cloud: The development of a responsively designed library website](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2015/Presentations/CUNY%20IT%20Conference/CUNYITConf15.pptx). Presentation at the 14th Annual CUNY IT Conference, New York, NY. (Refereed)<br>
+* Tidal, J. (2015). Bootstrapping in the cloud: The development of a responsively designed library website. Presentation at the 14th Annual CUNY IT Conference, New York, NY. (Refereed)<br>
 * Tidal, J. (2015). In your hands and on the phone: Usability and the mobile library website. Presentation at the Metro User Experience Special Interest Group, New York, NY.<br>
 * Wochna, L., Charles, J.V., Costa, D., Mathson, S., Miller, M., Tidal, J. (June, 2015). Programming & promoting PPR films to patrons. Panel Presentation at the American Libraries Association Annual Conference: Video Roundtable, San Francisco, CA. (Refereed)<br>
-* Tidal, J. (March, 2015). One site to rule them all: Usability testing of a responsively designed library website. Presented at the Academic Research and College Libraries Conference, Portland, OR. (Refereed, 28% acceptance rate)<br>
+* Tidal, J. (March, 2015). [One site to rule them all: Usability testing of a responsively designed library website](https://www.dropbox.com/s/8w6urss7zsne93s/One%20Site%20to%20Rule%20Them%20All.ppt?dl=0). Presented at the Academic Research and College Libraries Conference, Portland, OR. (Refereed, 28% acceptance rate)<br>
 * Tidal, J. (February, 2015). Bootstrap basics. Presented at the LACUNY Emerging Technologies Committee Workshop, New York, NY.<br>
 * King, E., Klish, H., Miller, D. Tidal, J. (February, 2015). Decoding code words. Presented at the American Libraries Association Midwinter Meeting: LITA/ALCTS Joint Interest Group: Library Code Year, Chicago, IL.<br>
-* Tidal, J. (November, 2014).Testing on a tablet: Usability testing of an mobile library website. Presented at the Library Information Technology Association National Forum, 2014, Albuquerque, NM. (Refereed)<br>
+* Tidal, J. (November, 2014).[Testing on a tablet: Usability testing of an mobile library website]. Presented at the Library Information Technology Association National Forum, 2014, Albuquerque, NM. (Refereed)<br>
 * Tidal, J. (March, 2014). How to be a good backup. Presented at the 2014 code4lib preconference session “Technology, Librarianship, and Gender: Moving the conversation forward,” Raleigh, NC. (Refereed)<br>
-* Zweibel, S., Davis, R. C., Tidal, J., & Verbovetskaya, A. (December, 2013). Life of Pi: Microcomputing in academia. Presented at the 12th Annual CUNY IT Conference, New York, NY. (Refereed)<br>
+* Zweibel, S., Davis, R. C., Tidal, J., & Verbovetskaya, A. (December, 2013). [Life of Pi: Microcomputing in academia](https://github.com/szweibel/CUNY-IT-Presentation). Presented at the 12th Annual CUNY IT Conference, New York, NY. (Refereed)<br>
 * Tidal, J. (November, 2013). Using web analytics for mobile interface development. Presented at the 11th Annual City Tech Faculty Research Conference, Brooklyn, NY.<br>
-* Tidal, J. (October, 2013). Pinterest and Instagram. Association of Library Communication Outreach Professionals Annual Conference, Fort Washington, PA. (Refereed)<br>
-* Tidal, J. (March, 2013). From open source to on your phone: Using Drupal to develop the library’s mobile website. New York City College of Technology Annual Faculty Research Conference, Brooklyn, NY.<br>
-* Tidal, J. (February, 2013). Using Drupal for electronic resources management. Presented at the LACUNY Mobile Roundtable February Meeting, New York, NY.<br>
-* Tidal, J. (November, 2012). From open source to on your phone: Using Drupal to develop the library’s mobile website. Poster session presented at the 10th Annual City Tech Poster Session, Brooklyn, NY.<br>
-* Tidal, J. (October, 2012). Transitions: Moving from a PHP flat-file electronic resources manager to Drupal 6 Views. Presented at the code4Lib New England Conference, New Haven, CT. (Refereed)<br>
-* Tidal, J. (August, 2012). Libraries and mobile development: Successes and failures. Presented at the Consortium of College and University Media Centers Annual Conference, Las Vegas, NV. (Refereed)<br>
-* Tidal, J. (July, 2012). Integrating social media tools. Presented at the State University of New York Library Association Annual Conference. New York, NY. (Refereed)
+* Tidal, J. (October, 2013). [Pinterest and Instagram](Pinterest). Association of Library Communication Outreach Professionals Annual Conference, Fort Washington, PA. (Refereed)<br>
+* Tidal, J. (March, 2013). [From open source to on your phone: Using Drupal to develop the library’s mobile website](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2013/Presentations/From%20Open%20Souce%20to%20On%20Your%20Phone%20City%20Tech%20Faculty%20Research%20Conference/From%20Open%20Source%20to%20On%20Your%20Phone%204-5-13.ppt). New York City College of Technology Annual Faculty Research Conference, Brooklyn, NY.<br>
+* Tidal, J. (February, 2013). [Using Drupal for electronic resources management](Using Drupal). Presented at the LACUNY Mobile Roundtable February Meeting, New York, NY.<br>
+* Tidal, J. (November, 2012). [From open source to on your phone: Using Drupal to develop the library’s mobile website](https://www.citytech.cuny.edu/eparse/Archives/jtidal/Scholarship/2013/Presentations/From%20Open%20Souce%20to%20On%20Your%20Phone%20City%20Tech%20Faculty%20Research%20Conference/From%20Open%20Source%20to%20On%20Your%20Phone%204-5-13.ppt). Poster session presented at the 10th Annual City Tech Poster Session, Brooklyn, NY.<br>
+* Tidal, J. (October, 2012). [Transitions: Moving from a PHP flat-file electronic resources manager to Drupal 6 Views](Transitions). Presented at the code4Lib New England Conference, New Haven, CT. (Refereed)<br>
+* Tidal, J. (August, 2012). [Libraries and mobile development: Successes and failures](Media Centers). Presented at the Consortium of College and University Media Centers Annual Conference, Las Vegas, NV. (Refereed)<br>
+* Tidal, J. (July, 2012). [Integrating social media tools](http://prezi.com/0uahnej-x1ri/integrating-social-media-tools-sunyla-2012/). Presented at the State University of New York Library Association Annual Conference. New York, NY. (Refereed)
 * Tidal, J. (November, 2011). Understanding users through WordPress statistics. Presented at the METRO Library Council SIG Lib 2.0. New York, NY.<br>
 * Tidal, J. (October, 2009). Developing mobile websites. LACUNY Emerging Technologies Committee Spring Program. New York, NY.
 
 ## Awards and Professional Recognition
 
+* 2021 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ARLIS/NA)<br>
 * 2020 – [ALA Library Census Equity Grant](http://www.ala.org/news/member-news/2020/09/ala-awards-additional-100-library-census-equity-fund-grants), Award to fund programming to encourage vulnerable populations to take part in the 2020 U.S. Census.<br>
 * 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
