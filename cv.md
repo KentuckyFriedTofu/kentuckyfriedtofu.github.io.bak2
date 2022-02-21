@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 ## Office Address:
 New York City College of Technology<br>
-City University of New York<br>
+City University of New York (CUNY)<br>
 Ursula C. Schwerin Library<br>
 Library Bldg. Rm. 434<br>
 300 Jay St.<br>
@@ -63,7 +63,7 @@ Indiana Daily Student, Bloomington, Indiana<br>
 Maintain daily news articles and site maintenance for award-winning, student-run newspaper, the Indiana Daily Student. Lead team-based productions of special online features and photo galleries. Supervise a staff of 4 student web designers.
 
 ## Publications
-View my [Academic Works Readership Report](https://readership.works.bepress.com/?dashboardToken=5f6b7d5bb513fe56f77d9b92eovK4T7zvAKuyxcuPHX2Kz80U35AJFAQd9UBcgsF)<br>
+View my [CUNY Academic Works Readership Report](https://readership.works.bepress.com/?dashboardToken=5f6b7d5bb513fe56f77d9b92eovK4T7zvAKuyxcuPHX2Kz80U35AJFAQd9UBcgsF)<br>
 View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-FCgAAAAJ&hl=en&oi=ao)
 
 ### Books
