@@ -29,7 +29,7 @@ B.S. Telecommunications<br>
 minor: Computer Science
 
 ## Research Interests
-Web Metrics, Web Usability, Information Architecture, Mobile Design
+Web Metrics, Web Usability, Mobile Design, Digital Privacy
 
 ## Experience
 
