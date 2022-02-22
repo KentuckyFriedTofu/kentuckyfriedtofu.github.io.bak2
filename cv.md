@@ -15,7 +15,9 @@ Library Bldg. Rm. 434<br>
 Brooklyn, NY<br>
 11201<br>
 718.260.5481<br>
-https://library.citytech.cuny.edu
+
+[jtidal@citytech.cuny.edu](jtidal@citytech.cuny.edu)<br>
+[https://library.citytech.cuny.edu](https://library.citytech.cuny.edu)
 
 ## Education
 * Indiana University, Bloomington, Indiana<br>
