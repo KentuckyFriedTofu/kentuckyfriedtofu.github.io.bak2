@@ -10,8 +10,8 @@ title: Curriculum Vitae
 New York City College of Technology<br>
 City University of New York (CUNY)<br>
 Ursula C. Schwerin Library<br>
-Library Bldg. Rm. 434<br>
 300 Jay St.<br>
+Library Bldg. Rm. 434<br>
 Brooklyn, NY<br>
 11201<br>
 718.260.5481<br>
