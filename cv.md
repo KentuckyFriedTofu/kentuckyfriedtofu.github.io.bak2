@@ -187,7 +187,7 @@ Co-wrote with Prof. Keith Muchowski in securing a grant for a traveling exhibiti
 This grant provided a copy of Love and Bananas, a documentary featuring the rescue of an elephant in Thailand. The grant provided the licensing cost of the DVD and refreshments for screening attendees.<br>
 * 2018 - Causeumentary, *Tickling Giants* Blu-ray disc with public performance license, est. $350<br>
 This grant provided a copy of *Tickling Giants*, a documentary featuring Egypt’s version of the Daily Show during Arab Spring. Organized an event where Prof. Stephanie Anne Boyle facilitated a discussion, followed by a screening of the film.<br>
-* 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (NYCCT) $1,800
+* 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (NYCCT) $1,800<br>
 This grant provided funding for programming surrounding World War I. I assisted Prof. Keith Muchowski in shooting a video for the grant, interviewing veterans, including City Tech students and faculty.<br>
 [Video](https://www.youtube.com/watch?v=BLUVGoYbu1c&feature=youtu.be)<br>
 * 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set $1,500 (NYCCT)<br>
