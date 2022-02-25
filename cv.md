@@ -183,13 +183,13 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 This grant provides limited funding for students to participate in the 2020 Census.<br>
 * 2019 - American Libraries Association, Americans and the Holocaust $2000 + panel exhibition<br>
 Co-wrote with Prof. Keith Muchowski in securing a grant for a traveling exhibition highlighting America and the Holocaust in WWII. The grant provided an interactive exhibit and a series of panels cover 1,100 sq. ft., and required the planning of 4 public presentations in connection with the grant. More information: http://www.ala.org/news/member-news/2019/06/public-and-academic-libraries-invited-join-americans-and-holocaust-traveling<br>
-* 2019 - Vegfund, Love & Bananas Blu-ray disc with public performance license, est. $350.
+* 2019 - *Vegfund*, Love & Bananas Blu-ray disc with public performance license, est. $350.
 This grant provided a copy of Love and Bananas, a documentary featuring the rescue of an elephant in Thailand. The grant provided the licensing cost of the DVD and refreshments for screening attendees.<br>
-* 2018 - Causeumentary, Tickling Giants Blu-ray disc with public performance license, est. $350<br>
-This grant provided a copy of Tickling Giants, a documentary featuring Egypt’s version of the Daily Show during Arab Spring. Organized an event where Prof. Stephanie Anne Boyle facilitated a discussion, followed by a screening of the film.<br>
+* 2018 - Causeumentary, *Tickling Giants* Blu-ray disc with public performance license, est. $350<br>
+This grant provided a copy of *Tickling Giants*, a documentary featuring Egypt’s version of the Daily Show during Arab Spring. Organized an event where Prof. Stephanie Anne Boyle facilitated a discussion, followed by a screening of the film.<br>
 * 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (NYCCT) $1,800
 This grant provided funding for programming surrounding World War I. I assisted Prof. Keith Muchowski in shooting a video for the grant, interviewing veterans, including City Tech students and faculty.<br>
-Video: https://www.youtube.com/watch?v=BLUVGoYbu1c&feature=youtu.be<br>
+[Video](https://www.youtube.com/watch?v=BLUVGoYbu1c&feature=youtu.be)<br>
 * 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set $1,500 (NYCCT)<br>
 Grant provided films that higlight America's Civil Rights Movement. Grant application was co-written with Profs. Tess Tobin and Ian Beilin.
 B. Internal (CUNY or PSC)<br>
@@ -321,4 +321,3 @@ B. Internal (CUNY or PSC)<br>
 
 Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
 Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
-
