@@ -175,11 +175,31 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * Tidal, J. (November, 2011). Understanding users through WordPress statistics. Presented at the METRO Library Council SIG Lib 2.0. New York, NY.<br>
 * Tidal, J. (October, 2009). Developing mobile websites. LACUNY Emerging Technologies Committee Spring Program. New York, NY.
 
+## Grant Activity
+
+* 2020 - Professional Staff Congress-City University of New York Research Award Traditional A Year 52 (The Library Website for Everyone: Developing a Web Prototype through Participatory Design) # 64023-00 TRADA-52, $3058.35<br>
+* 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
+* 2020 - American Libraries Association, Library Census Equity Fund mini-grant $2,000<br>
+This grant provides limited funding for students to participate in the 2020 Census.<br>
+* 2019 - American Libraries Association, Americans and the Holocaust $2000 + panel exhibition<br>
+Co-wrote with Prof. Keith Muchowski in securing a grant for a traveling exhibition highlighting America and the Holocaust in WWII. The grant provided an interactive exhibit and a series of panels cover 1,100 sq. ft., and required the planning of 4 public presentations in connection with the grant. More information: http://www.ala.org/news/member-news/2019/06/public-and-academic-libraries-invited-join-americans-and-holocaust-traveling<br>
+* 2019 - Vegfund, Love & Bananas Blu-ray disc with public performance license, est. $350.
+This grant provided a copy of Love and Bananas, a documentary featuring the rescue of an elephant in Thailand. The grant provided the licensing cost of the DVD and refreshments for screening attendees.<br>
+* 2018 - Causeumentary, Tickling Giants Blu-ray disc with public performance license, est. $350<br>
+This grant provided a copy of Tickling Giants, a documentary featuring Egypt’s version of the Daily Show during Arab Spring. Organized an event where Prof. Stephanie Anne Boyle facilitated a discussion, followed by a screening of the film.<br>
+* 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (NYCCT) $1,800
+This grant provided funding for programming surrounding World War I. I assisted Prof. Keith Muchowski in shooting a video for the grant, interviewing veterans, including City Tech students and faculty.<br>
+Video: https://www.youtube.com/watch?v=BLUVGoYbu1c&feature=youtu.be<br>
+* 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set $1,500 (NYCCT)<br>
+Grant provided films that higlight America's Civil Rights Movement. Grant application was co-written with Profs. Tess Tobin and Ian Beilin.
+B. Internal (CUNY or PSC)<br>
+* 2014 - Professional Staff Congress-City University of New York Research Award Traditional B Year 45 (Usability Study of Responsive Designed Ursula C. Schwerin Library Website) #67659-00 TRADB-45, $6,000<br>
+* 2013 - Professional Staff Congress-City University of New York Research Award Traditional A Year 44 (Usability Study of the Ursula C. Schwerin Mobile Website) #66012-00 TRADA-44-5, $2,000
+* 2013 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set (with Prof. Ian Beilin and Prof. Tess Tobin)<br>
+
 ## Awards and Professional Recognition
 
 * 2021 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ARLIS/NA)<br>
-* 2020 – [ALA Library Census Equity Grant](http://www.ala.org/news/member-news/2020/09/ala-awards-additional-100-library-census-equity-fund-grants), Award to fund programming to encourage vulnerable populations to take part in the 2020 U.S. Census.<br>
-* 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
 * 2020 – LACUNY Professional Development Travel Grant (Travel to Designing for Digital Conference)<br>
 * 2018 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to LMCC)<br>
@@ -200,14 +220,10 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * 2014 – LACUNY Professional Development Award Travel Grant Fall Cycle<br>
     (Travel to LITA Forum 2014)<br>
 * 2014 – New York City College of Technology Seven Year Service Award<br>
-* 2014 – Professional Staff Congress-City University of New York (PSC-CUNY) Research Award Traditional B Year 45 (Usability Study of the Ursula C. Schwerin Library’s Responsively Designed Website)<br>
 * 2014 – code4lib Diversity Scholarship<br>
     (Travel funds for code4lib 2014 National Conference)<br>
 * 2013 – New York City College of Technology Professional Development Advisory Council Travel Award
     (Travel funds to ALCOP 2013)<br>
-* 2013 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set (with Prof. Ian Beilin and Prof. Tess Tobin)<br>
-* 2013 – PSC-CUNY Research Award Traditional A Year 44<br>
-    (Usability Study of the Ursula C. Schwerin Library Mobile Website)<br>
 * 2013 – Awarded Tenure, New York City College of Technology, CUNY<br>
 * 2012 – New York City College of Technology Professional Development Advisory Council Travel Award
     (Travel to CCUMC 2012)
