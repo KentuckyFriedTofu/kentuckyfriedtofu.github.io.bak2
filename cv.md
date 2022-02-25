@@ -191,8 +191,7 @@ This grant provided a copy of *Tickling Giants*, a documentary featuring Egypt�
 This grant provided funding for programming surrounding World War I. I assisted Prof. Keith Muchowski in shooting a video for the grant, interviewing veterans, including City Tech students and faculty.<br>
 [Video](https://www.youtube.com/watch?v=BLUVGoYbu1c&feature=youtu.be)<br>
 * 2018 - National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set $1,500 (NYCCT)<br>
-Grant provided films that higlight America's Civil Rights Movement. Grant application was co-written with Profs. Tess Tobin and Ian Beilin.
-B. Internal (CUNY or PSC)<br>
+Grant provided films that higlight America's Civil Rights Movement. Grant application was co-written with Profs. Tess Tobin and Ian Beilin.<br>
 * 2014 - Professional Staff Congress-City University of New York Research Award Traditional B Year 45 (Usability Study of Responsive Designed Ursula C. Schwerin Library Website) #67659-00 TRADB-45, $6,000<br>
 * 2013 - Professional Staff Congress-City University of New York Research Award Traditional A Year 44 (Usability Study of the Ursula C. Schwerin Mobile Website) #66012-00 TRADA-44-5, $2,000
 * 2013 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, Created Equal: America’s Civil Rights Struggle Grant Funding and Film Set (with Prof. Ian Beilin and Prof. Tess Tobin)<br>
