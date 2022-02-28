@@ -318,5 +318,5 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Media Appearances 
 
-Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
-Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
+* Kroski, E. V. (2022, Jan. 3). *Guest interview: Junior Tidal on podcasting* [Video]. YouTube. [https://www.youtube.com/watch?v=u32-9eYj8Mw](https://www.youtube.com/watch?v=u32-9eYj8Mw)
+* Collins, K. & Ovadia, S. (Hosts). (2021, April 26). *Episode 58: City Tech librarians talk podcasting* [Audio podcast episode]. *Indoor Voices* [https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3](https://traffic.libsyn.com/secure/indoorvoices/Tidal_and_Almeida.mp3)
