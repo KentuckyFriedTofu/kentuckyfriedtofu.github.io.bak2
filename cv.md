@@ -198,7 +198,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Awards and Professional Recognition
 
-* Carlson, S. (2022). *Connecting Through Podcasts*. The Library of the Future Report. *Chronicle of Higher Education*. (pg. 36). 
+* 2022 - Carlson, S. (2022). *Connecting Through Podcasts*. The Library of the Future Report. *Chronicle of Higher Education*. (pg. 36). 
 * 2021 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ARLIS/NA)<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
 * 2020 – LACUNY Professional Development Travel Grant (Travel to Designing for Digital Conference)<br>
