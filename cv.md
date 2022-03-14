@@ -210,7 +210,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ALA Midwinter)<br>
 * 2015 – [ACRL Member of the Week](https://acrl.ala.org/acrlinsider/member-of-the-week-junior-tidal/) April 27th – May 2, 2015<br>
 * 2015 – ACRL 2015 Mid-career Librarian scholarship<br>
-    (Travel to ACRL 2015) [Testimonial](http://acrl.ala.org/acrl75/?p=1453)<br>
+    (Travel to ACRL 2015)<br>
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award<br>
     (Travel to ACRL National Conference 2015)<br>
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award<br>
