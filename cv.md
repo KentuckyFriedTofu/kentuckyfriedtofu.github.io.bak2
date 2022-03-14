@@ -89,30 +89,30 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 * Almeida, N., Tidal, J. (2022). [Navigating the library: Communication and spatial challenges for ESOL students](https://preprint.press.jhu.edu/portal/sites/ajm/files/almeida.pdf). portal: Libraries and the Academy, 22(2).
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
 * Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs](http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).<br>
-* Almeida, N. and Tidal, J. (2017). [Mixed Methods Not Mixed Messages: Improving LibGuides with Student Usability Data](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29305/21467). *Evidence Based Library and Information Practice*, 12(4).<br>
-* Abrams, K. and Tidal, J. (2017). [What’s Mine is YOURLS](https://digitalcommons.montclair.edu/cgi/viewcontent.cgi?article=1024&context=eldj). *Emerging Learning Design Journal*, 5.<br>
-* Tidal, J. (November, 2016). [One Site to Rule Them All Redux: The Second Round of Usability Testing of a Responsively Designed Website](http://academicworks.cuny.edu/ny_pubs/122/). *Journal of Web Librarianship*, 11(1). http://dx.doi.org/10.1080/19322909.2016.1243458.<br>
+* Almeida, N. and Tidal, J. (2017). [Mixed methods not mixed messages: Improving LibGuides with student usability data](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29305/21467). *Evidence Based Library and Information Practice*, 12(4).<br>
+* Abrams, K. and Tidal, J. (2017). [What’s mine is YOURLS](https://digitalcommons.montclair.edu/cgi/viewcontent.cgi?article=1024&context=eldj). *Emerging Learning Design Journal*, 5.<br>
+* Tidal, J. (November, 2016). [One site to rule them all redux: The second round of usability testing of a responsively designed website](http://academicworks.cuny.edu/ny_pubs/122/). *Journal of Web Librarianship*, 11(1). http://dx.doi.org/10.1080/19322909.2016.1243458.<br>
 * Tidal, J. (October, 2013). [Developing mobile website interfaces](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.835218). *Journal of Web Librarianship*. 7(4).<br>
 * Tidal, J. (October, 2012). [Using PHP to parse eBook resources from Drupal 6 to populate a mobile web page](https://journal.code4lib.org/articles/7294). *Code4lib Journal*, 18.<br>
 * Tidal, J. (May, 2012). [Creating a user-centered library homepage: A case study](https://www.emerald.com/insight/content/doi/10.1108/10650751211236631/full/html). *OCLC Systems & Services: International Digital Library Perspectives*, 28(2).
 
 ### Non Refereed Publications
 
-* Tidal, J. (2019). [Editorial: New Editors, Diversity, and Representation](https://journal.code4lib.org/articles/14551). *Code4Lib Journal*, 44.<br>
+* Tidal, J. (2019). [Editorial: New editors, diversity, and representation](https://journal.code4lib.org/articles/14551). *Code4Lib Journal*, 44.<br>
 * Tidal, J. (February, 2011). [Using web metric software to drive mobile website development](https://eric.ed.gov/?id=EJ926260). *Computers in Libraries*, 31(3) 19-23.
 
 ### Other
 
-* Tidal, J. (2017). [E-Resource Round Up Electronic Resources Management Toolkit Program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
-* Tidal, J. (2016). [Notes from the Editor](http://academicworks.cuny.edu/ulj/vol22/iss2/6/). *Urban Library Journal*, 21(2).<br>
-* Tidal, J. (2016). [Notes from the Editor](http://academicworks.cuny.edu/ulj/vol22/iss1/3/). *Urban Library Journal*, 21(1).<br>
-* Tidal, J. (2015)  [E-Resource Round Up ALA Annual 2015 LITA/ALCTS Joint Electronic Resource Management Interest Group Report](http://www.tandfonline.com/doi/full/10.1080/1941126X.2015.1092358). *Journal of Electronic Resources Librarianship*, 27(4).
-* Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1676/Notes%20from%20Editor%20Tidal). *Urban Library Journal*, 20(2).<br>
-* Densmore, B. and Tidal, J. (2015) [Notes from the Co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1671/Notes%20from%20the%20Co-Editors). *Urban Library Journal*, 20(1).
+* Tidal, J. (2017). [E-Resource round up rlectronic resources management toolkit program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
+* Tidal, J. (2016). [Notes from the editor](http://academicworks.cuny.edu/ulj/vol22/iss2/6/). *Urban Library Journal*, 21(2).<br>
+* Tidal, J. (2016). [Notes from the editor](http://academicworks.cuny.edu/ulj/vol22/iss1/3/). *Urban Library Journal*, 21(1).<br>
+* Tidal, J. (2015)  [E-Resource round up ALA Annual 2015 LITA/ALCTS Joint Electronic Resource Management Interest Group report](http://www.tandfonline.com/doi/full/10.1080/1941126X.2015.1092358). *Journal of Electronic Resources Librarianship*, 27(4).
+* Tidal, J. (2015) [Notes from the co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1676/Notes%20from%20Editor%20Tidal). *Urban Library Journal*, 20(2).<br>
+* Densmore, B. and Tidal, J. (2015) [Notes from the co-editors](http://ojs.gc.cuny.edu/index.php/urbanlibrary/article/view/1671/Notes%20from%20the%20Co-Editors). *Urban Library Journal*, 20(1).
 
 ### Conference Proceedings
 
-* Tidal, J. (2015) [One Site to Rule Them All: Usability Testing of a Responsively Designed Library Website](https://academicworks.cuny.edu/ny_pubs/122/). In Mueller, D. (Ed.) Creating Sustainable Community The Proceedings of the ACRL 2015 Conference . Paper presented at the Association of College and Research Libraries, Portland OR, 25-28 March (pp. 593-604). Association of College and Research Libraries: Chicago.
+* Tidal, J. (2015) [One site to rule them all: Usability testing of a responsively designed library website](https://academicworks.cuny.edu/ny_pubs/122/). In Mueller, D. (Ed.) Creating Sustainable Community The Proceedings of the ACRL 2015 Conference . Paper presented at the Association of College and Research Libraries, Portland OR, 25-28 March (pp. 593-604). Association of College and Research Libraries: Chicago.
 
 ### Encyclopedia Entries
 
