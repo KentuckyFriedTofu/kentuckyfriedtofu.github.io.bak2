@@ -208,7 +208,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * 2016 – National Endowment of the Humanities/Gilder-Lerhman Institute of American History, World War I and America (with Prof. Keith Muchowski and Prof. Tess Tobin)<br>
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to code4Lib National)<br>
 * 2016 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ALA Midwinter)<br>
-* 2015 – [ACRL Member of the Week](http://www.acrl.ala.org/acrlinsider/archives/10164) April 27th – May 2, 2015<br>
+* 2015 – [ACRL Member of the Week](https://acrl.ala.org/acrlinsider/member-of-the-week-junior-tidal/) April 27th – May 2, 2015<br>
 * 2015 – ACRL 2015 Mid-career Librarian scholarship<br>
     (Travel to ACRL 2015) [Testimonial](http://acrl.ala.org/acrl75/?p=1453)<br>
 * 2015 – New York City College of Technology Professional Development Advisory Council Travel Award<br>
