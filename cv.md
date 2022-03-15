@@ -103,7 +103,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Other
 
-* Tidal, J. (2017). [E-Resource round up rlectronic resources management toolkit program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
+* Tidal, J. (2017). [E-Resource round up electronic resources management toolkit program](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1270107). *Journal of Electronic Resources Librarianship*, 29(1).<br>
 * Tidal, J. (2016). [Notes from the editor](http://academicworks.cuny.edu/ulj/vol22/iss2/6/). *Urban Library Journal*, 21(2).<br>
 * Tidal, J. (2016). [Notes from the editor](http://academicworks.cuny.edu/ulj/vol22/iss1/3/). *Urban Library Journal*, 21(1).<br>
 * Tidal, J. (2015)  [E-Resource round up ALA Annual 2015 LITA/ALCTS Joint Electronic Resource Management Interest Group report](http://www.tandfonline.com/doi/full/10.1080/1941126X.2015.1092358). *Journal of Electronic Resources Librarianship*, 27(4).
