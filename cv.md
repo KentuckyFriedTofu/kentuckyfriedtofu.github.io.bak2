@@ -198,7 +198,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Awards and Professional Recognition
 
-* 2022 - LACUNY Professional Development Trave Grant (Travel to ARLIS/NA)<br>
+* 2022 - LACUNY Professional Development Travel Grant (Travel to ARLIS/NA)<br>
 * 2021 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ARLIS/NA)<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
 * 2020 – LACUNY Professional Development Travel Grant (Travel to Designing for Digital Conference)<br>
@@ -266,7 +266,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * New York City College of Technology, Professional Development Advisory Council(PDAC) College Research Council 2022-present
 * New York City College of Technology, Faculty Commons Using a Personal Website and Social Media to Promote Your Research and Creative Work Workshop
 * New York City College of Technology, [Faculty Commons Faculty Friday: Using Podcasts as a Teaching Tool](https://youtu.be/zjY2vQztGvI) Workshop
-* New York City College of Technology, PDAC New Faculty Orientation Committee 2019-2022
+* New York City College of Technology, PDAC New Faculty Orientation Committee 2019-present
 * New York City College of Technology, Personnel Appeals Committee member (elected), 2019-2021
 * New York City College of Technology, CUNY College Council Delegate-At-Large (elected), 2017-2020
 * New York City College of Technology, CUNY College Council Technology Committee Secretary (elected), 2015-2016
