@@ -10,7 +10,7 @@ I am the Multimedia and Web Services Librarian, Associate Professor for the [Urs
 {: refdef}
 *Photo by Alberto Vargas*
 
-My research interest include mobile web usability, digital privacy, and more. I've written a number of [publications and presentations](cv.html), including the books, [*Usability and the Mobile Web*](http://www.worldcat.org/oclc/937668047) and [*Podcasting: A Practical Guide for Librarians*](http://www.worldcat.org/oclc/1259038141).
+My research interests include mobile web usability, digital privacy, and more. I've written a number of [publications and presentations](cv.html), including the books, [*Usability and the Mobile Web*](http://www.worldcat.org/oclc/937668047) and [*Podcasting: A Practical Guide for Librarians*](http://www.worldcat.org/oclc/1259038141).
 
 I oversee the City Tech library's Multimedia Resource Center, the media collection, and website. 
 
