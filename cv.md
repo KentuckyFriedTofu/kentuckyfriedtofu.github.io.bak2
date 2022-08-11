@@ -35,10 +35,13 @@ Web Metrics, Web Usability, Mobile Design, Digital Privacy
 
 ## Experience
 
+* Full Professor (tenured), Web Services and Multimedia Librarian<br>
+August 2022 - Present
+Develop, administer, and maintain the library’s cloud-based web server, containing 8 different content management system driven websites. Support research and information needs to 17,000+ students and faculty. Oversee, recommend, and copy catalog media for the library’s 3,000+ piece multimedia collection. Supervise 1 full-time IT Associate, 7 College Assistants, and 1 library web development intern. Provide reference and instructional support to faculty and students. Subject liaison for the departments of Computer Systems Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology. Recommend books and media for purchase to support curriculum and course proposals.
+
 * Associate Professor (tenured), Web Services and Multimedia Librarian<br>
 August 2015 – Present
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York<br>
-Develop, administer, and maintain the library’s cloud-based web server, containing 8 different content management system driven websites. Support research and information needs to 17,000+ students and faculty. Oversee, recommend, and copy catalog media for the library’s 3,000+ piece multimedia collection. Supervise 1 full-time IT Associate, 7 College Assistants, and 1 library web development intern. Provide reference and instructional support to faculty and students. Subject liaison for the departments of Computer Systems Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology. Recommend books and media for purchase to support curriculum and course proposals.
 
 * Assistant Professor, Web Services and Multimedia Librarian<br>
 April 2006 – August 2015: tenured 2013<br>
