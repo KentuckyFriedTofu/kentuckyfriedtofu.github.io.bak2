@@ -3,7 +3,7 @@ layout: home
 title: Hi, I'm Junior
 ---
 
-I am the Multimedia and Web Services Librarian, Associate Professor for the [Ursula C. Schwerin Library](https://library.citytech.cuny.edu) at the [New York City College of Technology](https://citytech.cuny.edu) of the [City University of New York](https://www.cuny.edu).
+I am the Multimedia and Web Services Librarian, Professor for the [Ursula C. Schwerin Library](https://library.citytech.cuny.edu) at the [New York City College of Technology](https://citytech.cuny.edu) of the [City University of New York](https://www.cuny.edu).
 
 {:refdef: style="text-align: center;"}
 ![Photo by Al Vargas](https://juniortidal.com/assets/junior_tidal.jpg "Photo by Al Vargas"){: width="250"}
