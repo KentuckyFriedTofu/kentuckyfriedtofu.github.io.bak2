@@ -44,7 +44,7 @@ August 2015 – Present<br>
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York<br>
 
 * Assistant Professor, Web Services and Multimedia Librarian<br>
-April 2006 – August 2015: tenured 2013<br>
+April 2006 – August 2015; tenured 2013<br>
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York<br>
 
 * Museum Assistant<br>
