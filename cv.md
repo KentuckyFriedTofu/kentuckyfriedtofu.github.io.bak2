@@ -101,6 +101,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Non Refereed Publications
 
+* Tidal, J. (2023). [Editorial: Journal Updates and a Call for Editors](https://journal.code4lib.org/articles/17062). *Code4Lib Journal*, 55<br>
 * Tidal, J. (2019). [Editorial: New editors, diversity, and representation](https://journal.code4lib.org/articles/14551). *Code4Lib Journal*, 44.<br>
 * Tidal, J. (February, 2011). [Using web metric software to drive mobile website development](https://eric.ed.gov/?id=EJ926260). *Computers in Libraries*, 31(3) 19-23.
 
