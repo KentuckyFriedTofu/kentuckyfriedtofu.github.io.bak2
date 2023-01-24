@@ -138,6 +138,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## Presentations
 
+* Lerski, M. and Tidal, J. (2022). Privacy in Information Literacy Instruction presentation for LILAC Spring Training, virtual. 
 * Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities, as part of the "Creative Practice as Scholarly Practice: Artistic Alternatives to 'Publish or Perish' Models in LIS" panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL. 
 * Clyde, W., Cooney, C., and Tidal, J. (2021). [Opening teaching beyond traditional instructional settings: A teaching portfolio program for non-instructional librarians](https://drive.google.com/file/d/1i6G7NricZmPWztMJs3wpjbO1sR5EGYaY/view). Presentation at the Association of College and Research Libraries National Conference, Virtual.<br>
 * Abrams, K., Almeida, N. and Tidal, J. (2020). [The way I see it: Using Go-Pro Cameras to understand student wayfinding obstacles](https://drive.google.com/file/d/1nAYhlDitStbhYIlOFRVZnaGUnq8fJRQa/view?usp=sharing). Presentation at Designing for Digital 2020 Conference, Austin, TX.<br>
@@ -201,6 +202,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Awards and Professional Recognition
 
+* 2023 - New York City College of Technology Professional Development Advisory Council Travel Award (Travel to Code4Lib 2023)<br>
 * 2022 - LACUNY Professional Development Travel Grant (Travel to ARLIS/NA)<br>
 * 2021 – New York City College of Technology Professional Development Advisory Council Travel Award (Travel to ARLIS/NA)<br>
 * 2020 – The CUNY Academy Stefan Bernard Baumrin [SBB] Travel Award for Associate Professors for National & International Conferences (Travel to code4Lib National Conference, 2020).<br>
@@ -233,6 +235,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Professional Service
 
+* Code4Lib 2023 Conference Committee, Scholarship Committee - Member, 2022 - 2023<br>
 * Code4Lib 2016 Conference Committee, Scholarship Committee – Member, 2015 – 2016<br>
 * Code4Lib 2016 Conference Committee, Website Working Group, 2015 – 2016<br>
 * Reference and User Services Association (RUSA) – Website Blog Coordinator, 2014 – 2016<br>
@@ -243,7 +246,7 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 
 ## Community Service
 
-* Code4Lib Journal – Editorial board member 2015 – present<br>
+* Code4Lib Journal – Editorial board member 2015 – 2023<br>
 * Urban Library Journal – Co-editor 2014 – 2015, Editor 2015-2016<br>
 * Peer Reviewer – Access Conference 2013 (Canada)<br>
 * Peer Reviewer – The Weave UX 2013 – 2015
