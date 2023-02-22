@@ -89,7 +89,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Refereed Publications
 
-* Almeida, N., Tidal, J. (2022). [Navigating the library: Communication and spatial challenges for ESOL students](https://academicworks.cuny.edu/ny_pubs/877/]). *portal: Libraries and the Academy*, 22(2).
+* Almeida, N., Tidal, J. (2022). [Navigating the library: Communication and spatial challenges for ESOL students](https://academicworks.cuny.edu/ny_pubs/877/). *portal: Libraries and the Academy*, 22(2).
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
 * Abrams, K. and Tidal, J. (2020). [Optimizing library marketing with shortURLs](http://journal.marketinglibraries.org/april2020/05_MLJv4i1_Feature_Abrams_Tidal.pdf). *Marketing Libraries Journal*, 4(1).<br>
 * Almeida, N. and Tidal, J. (2017). [Mixed methods not mixed messages: Improving LibGuides with student usability data](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29305/21467). *Evidence Based Library and Information Practice*, 12(4).<br>
