@@ -139,7 +139,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## Presentations
 
-* Tidal, J. (2023). [Speaking Volumes: Podcasts for Patrons and Professionals. Niche Acamdey](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals), virtual.<br>
+* Tidal, J. (2023). [Speaking Volumes: Podcasts for Patrons and Professionals.](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals) Niche Acamdey, virtual.<br>
 * Lerski, M. and Tidal, J. (2022). Privacy in Information Literacy Instruction presentation for LILAC Spring Training, virtual.<br>
 * Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities, as part of the "Creative Practice as Scholarly Practice: Artistic Alternatives to 'Publish or Perish' Models in LIS" panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL.<br>
 * Clyde, W., Cooney, C., and Tidal, J. (2021). [Opening teaching beyond traditional instructional settings: A teaching portfolio program for non-instructional librarians](https://drive.google.com/file/d/1i6G7NricZmPWztMJs3wpjbO1sR5EGYaY/view). Presentation at the Association of College and Research Libraries National Conference, Virtual.<br>
