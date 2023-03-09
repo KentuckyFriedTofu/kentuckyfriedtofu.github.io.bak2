@@ -139,8 +139,9 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ## Presentations
 
-* Lerski, M. and Tidal, J. (2022). Privacy in Information Literacy Instruction presentation for LILAC Spring Training, virtual. 
-* Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities, as part of the "Creative Practice as Scholarly Practice: Artistic Alternatives to 'Publish or Perish' Models in LIS" panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL. 
+* Tidal, J. (2023). [Speaking Volumes: Podcasts for Patrons and Professionals. Niche Acamdey](https://www.nicheacademy.com/blog/podcasts-for-patrons-and-professionals), virtual.<br>
+* Lerski, M. and Tidal, J. (2022). Privacy in Information Literacy Instruction presentation for LILAC Spring Training, virtual.<br>
+* Jocson-Singh, J. and Tidal, J. (2022). Shush: Developing an extreme music bibliography by and for marginalized communities, as part of the "Creative Practice as Scholarly Practice: Artistic Alternatives to 'Publish or Perish' Models in LIS" panel presentation at Art Libraries Society of North America Annual Conference, Chicago, IL.<br>
 * Clyde, W., Cooney, C., and Tidal, J. (2021). [Opening teaching beyond traditional instructional settings: A teaching portfolio program for non-instructional librarians](https://drive.google.com/file/d/1i6G7NricZmPWztMJs3wpjbO1sR5EGYaY/view). Presentation at the Association of College and Research Libraries National Conference, Virtual.<br>
 * Abrams, K., Almeida, N. and Tidal, J. (2020). [The way I see it: Using Go-Pro Cameras to understand student wayfinding obstacles](https://drive.google.com/file/d/1nAYhlDitStbhYIlOFRVZnaGUnq8fJRQa/view?usp=sharing). Presentation at Designing for Digital 2020 Conference, Austin, TX.<br>
 * Jones, B. N., Tidal, J. (2020). [Pi-hole privacy: Tampering is a good thing](https://librarianbryan.github.io/Pi-Hole-Code4Lib2020/). Pre-conference presentation at code4Lib 2020, Pittsburgh, PA.<br>
