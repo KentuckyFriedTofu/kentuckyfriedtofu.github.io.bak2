@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 ---
 
-# Junior Tidal - Curriculum Vitae
+# Abubakar R. Tidal, Jr. - Curriculum Vitae
 
 
 ## Office Address:
