@@ -45,7 +45,7 @@ Brooklyn, New York
   * Supervise 1 full-time IT Associate, College Assistants, and library web development intern. 
   * Provide reference and instructional support to faculty and students. 
   * Subject liaison for the departments of Computer Systems Technology, Entertainment Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology, selecting monographs with an annual budget of nearly $10,000.
-  * Recommend books and media for purchase to support curriculum and course proposals.
+  * Recommend books and media for purchase to support curriculum and course proposals.<br>
 
 
 * Associate Professor (tenured), Web Services and Multimedia Librarian<br>
@@ -98,7 +98,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Refereed Publications
 
-* Cooney, C., Clyde, W., Karpinski, K. Tidal, J. Johnson, N. (2023). [When 'non-instructional' librarians teach](https://cjal.ca/index.php/capal/article/view/40962). *Canadian Journal of Academic Librarianship*, 9. 
+* Cooney, C., Clyde, W., Karpinski, K., Tidal, J., & Johnson, N. (2023). When ‘Non-Instructional’ Librarians Teach: Navigating Faculty Status and Teaching Portfolios. Canadian Journal of Academic Librarianship, 9, 1–14. https://doi.org/10.33137/cjal-rcbu.v9.40962. 
 * Tidal, J. (2023). [Review of the book <em>The ultimate privacy field guide: A workbook of best practices</em>](https://crl.acrl.org/index.php/crl/article/view/25884/33806). *College Research & Libraries*, 84(3).
 * Almeida, N., Tidal, J. (2022). [Navigating the library: Communication and spatial challenges for ESOL students](https://academicworks.cuny.edu/ny_pubs/877/). *portal: Libraries and the Academy*, 22(2).
 * Tidal, J. (2021). [Library analytics: Shaping the future — library web analytics: Data that can empower and endanger our users](https://www.charleston-hub.com/2021/04/library-analytics-shaping-the-future-library-web-analytics-data-that-can-empower-and-endanger-our-users/). *Against the Grain*, 33(1).
