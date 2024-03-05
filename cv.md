@@ -47,7 +47,7 @@ Brooklyn, New York
   * Subject liaison for the departments of Computer Systems Technology, Entertainment Technology, Electrical & Telecommunications Engineering Technology, and Mechanical Engineering Technology, selecting monographs with an annual budget of nearly $10,000.
   * Recommend books and media for purchase to support curriculum and course proposals.<br>
 
-
+<br>
 * Associate Professor (tenured), Web Services and Multimedia Librarian<br>
 August 2015 – July 2022<br>
 Ursula C. Schwerin Library, New York City College of Technology, CUNY, Brooklyn, New York<br>
