@@ -81,7 +81,7 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 ### Books
 
-* Tidal, J. (forthcoming) *Writing a Librarian’s Teaching Portfolio: A How To*. Association of College and Research Libraries (ACRL).<br>
+* Tidal, J. (forthcoming) *Writing a librarian’s teaching portfolio: A how to*. Association of College and Research Libraries (ACRL).<br>
 * Tidal, J. (2021). *[Podcasting: A practical guide for librarians](http://www.worldcat.org/oclc/1259038141)*. Chicago: Rowman & Littlefield.<br>
 * Tidal, J. (2015). *[Usability and the mobile web: A LITA guide](http://www.worldcat.org/oclc/1151666266)*. Chicago: American Libraries Association, TechSource.
 
