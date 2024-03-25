@@ -202,8 +202,8 @@ This grant provided funding to screen the documentary *Not Your Model Minority* 
 * 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
 * 2020 - American Libraries Association, Library Census Equity Fund mini-grant $2,000<br>
 This grant provides limited funding for students to participate in the 2020 Census.<br>
-* 2019 - American Libraries Association, Americans and the Holocaust $2000 + panel exhibition<br>
-Co-wrote with Prof. Keith Muchowski in securing a grant for a traveling exhibition highlighting America and the Holocaust in WWII. The grant provided an interactive exhibit and a series of panels cover 1,100 sq. ft., and required the planning of 4 public presentations in connection with the grant. More information: http://www.ala.org/news/member-news/2019/06/public-and-academic-libraries-invited-join-americans-and-holocaust-traveling<br>
+* 2019 - American Libraries Association, Americans and the Holocaust $2,000 + panel exhibition<br>
+Co-wrote with Prof. Keith Muchowski in securing a grant for a traveling exhibition highlighting America and the Holocaust in WWII. The grant provided an interactive exhibit and a series of panels cover 1,100 sq. ft., and required the planning of 4 public presentations in connection with the grant. [More information](http://www.ala.org/news/member-news/2019/06/public-and-academic-libraries-invited-join-americans-and-holocaust-traveling)<br>
 * 2019 - *Vegfund*, Love & Bananas Blu-ray disc with public performance license, est. $350.
 This grant provided a copy of Love and Bananas, a documentary featuring the rescue of an elephant in Thailand. The grant provided the licensing cost of the DVD and refreshments for screening attendees.<br>
 * 2018 - Causeumentary, *Tickling Giants* Blu-ray disc with public performance license, est. $350<br>
