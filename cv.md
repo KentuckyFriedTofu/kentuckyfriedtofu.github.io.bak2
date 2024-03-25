@@ -196,8 +196,8 @@ View my [Google Scholar Profile](https://scholar.google.com/citations?user=mAq-F
 
 * 2023 - American Libraries Association (ALA) Libraries and Transforming Communities Grant, $10,000<br>
 This grant provides the City Tech library with vinyl and podcasting equipment. Co-written with Profs. Anne Leonard and Monica Berger
-* 2022 - Rising Against Anti-Asian Racism Grant, $2,500<br>
-This grant provided funding to screen the documentary Not Your Model Minority and provide remote training on intervening against Anti-Asian American violence through the group, Right to Be.
+* 2022 - [Rising Against Anti-Asian Racism Grant](https://openlab.citytech.cuny.edu/library/film-screening-5-4-and-bystander-intervention-5-12-training-asian-american-pacific-islander-events-for-may/), $2,500<br>
+This grant provided funding to screen the documentary *Not Your Model Minority* and provide remote training on intervening against Anti-Asian American violence through the group, Right to Be.
 * 2020 - Professional Staff Congress-City University of New York Research Award Traditional A Year 52 (The Library Website for Everyone: Developing a Web Prototype through Participatory Design) # 64023-00 TRADA-52, $3058.35<br>
 * 2020 – [Carnegie-Whitney Grant](http://www.ala.org/aboutala/offices/publishing/sundry/alapubawrds/carnegiewhitneypast) (with Joan Jocson-Signh of California Institute of the Arts), Award to fund the development of “[A Bibliography Exploring Extreme Music and Marginalized Communities](https://libguides.citytech.cuny.edu/extrememusicbib/home).”<br>
 * 2020 - American Libraries Association, Library Census Equity Fund mini-grant $2,000<br>
