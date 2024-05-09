@@ -306,6 +306,8 @@ Grant provided films that higlight America's Civil Rights Movement. Grant applic
 * CUNY University Faculty Senate, Senator 2020-2023
 * CUNY IT Accessibility Task Force 2014 – present
 * CUNY Copyright Committee, Member 2014 – 2015
+* LACUNY Insitute 2017 Organizing Committee, Co-Chair
+  Organized the annual conference, developed conference [website](https://2018lacunyinst.commons.gc.cuny.edu).
 * LACUNY Institute 2013 Organizing Committee, Member 2012-2013
   Designed print brochures for annual conference
 * LACUNY Mobile Development Roundtable, Member 2012 – Present
